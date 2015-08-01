@@ -1,0 +1,29 @@
+PODS:
+  - CocoaLumberjack (2.0.1):
+    - CocoaLumberjack/Default (= 2.0.1)
+    - CocoaLumberjack/Extensions (= 2.0.1)
+  - CocoaLumberjack/Core (2.0.1)
+  - CocoaLumberjack/Default (2.0.1):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.0.1):
+    - CocoaLumberjack/Default
+  - FlatUIKit (1.6.2)
+  - Masonry (0.6.2)
+  - MJExtension (2.5.3)
+  - SVProgressHUD (HEAD based on 1.1.3)
+
+DEPENDENCIES:
+  - CocoaLumberjack (~> 2.0.0)
+  - FlatUIKit
+  - Masonry (~> 0.6.1)
+  - MJExtension
+  - SVProgressHUD (HEAD)
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 019d1361244274a6138c788c6cb80baabc13fb8f
+  FlatUIKit: 1b41f0d4952ce8d970d8479ce79df54a960242c4
+  Masonry: 362e8a1cc0beada4a4c4832d5e863da2a51533be
+  MJExtension: d636ed42d1af44cba81106ae7831cccb66906eb7
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+
+COCOAPODS: 0.37.2
